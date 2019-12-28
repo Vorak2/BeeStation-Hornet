@@ -410,3 +410,16 @@
 /area/ruin/space/has_grav/powered/macspace
 	name = "Mac Space Restaurant"
 	icon_state = "yellow"
+
+//TEMPLAR CASTLE
+/area/ruin/space/has_grav/spacefort/wall
+	name = "Castle wall"
+	icon_state = "red"
+
+/area/ruin/space/has_grav/spacefort/courtyard
+	name = "Castle courtyard"
+	icon_state = "yellow"
+
+/area/ruin/space/has_grav/spacefort/keep
+	name = "Castle keep"
+	icon_state = "red"
