@@ -410,3 +410,32 @@
 /area/ruin/space/has_grav/powered/macspace
 	name = "Mac Space Restaurant"
 	icon_state = "yellow"
+
+//RANGER OUTPOST
+/area/ruin/space/has_grav/ranger_outpost/dorms
+	name = "Ranger outpost droms"
+	icon_state = "yellow"
+
+/area/ruin/space/has_grav/ranger_outpost/breakroom
+	name = "Ranger outpost Breakroom"
+	icon_state = "red"
+
+/area/ruin/space/has_grav/ranger_outpost/comms
+	name = "Ranger Comms Officer Post "
+	icon_state = ""
+
+/area/ruin/space/has_grav/ranger_outpost/shuttle_dock
+	name = "Ranger outpost shuttle dock"
+	icon_state = ""
+
+/area/ruin/space/has_grav/ranger_outpost/brig
+	name = "Ranger outpost brig"
+	icon_state = "security"
+
+/area/ruin/space/has_grav/ranger_outpost/maint
+	name = "Ranger outpost maintenence"
+	icon_state = "green"
+
+/area/ruin/space/has_grav/ranger_outpost/hallway
+	name = "Ranger outpost hallway"
+	icon_state = "blue"
